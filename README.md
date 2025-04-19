@@ -1,0 +1,1 @@
+# t90p hi! this is an chrome extension called t90p please if any not good thing tell me! in issues! if you making an html or txt or pdf don't import but if you want import if you don't want txt rename it on windows (eg test.txt) to test.html or test.pdf or convert it to pdf by going to convertio.co!
